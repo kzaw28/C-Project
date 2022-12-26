@@ -25,7 +25,7 @@ int main(void)
 
     printf("Loading data from file: %s\n", DATA_FILE);
     //records = loadData(DATA_FILE, data, MAX_RECORDS);
-    records = loadData("/Users/sanghyonjeon/Desktop/IPC144/OTHER/EXAM/data.txt", data, MAX_RECORDS);
+    records = loadData("/data.txt", data, MAX_RECORDS);
     printf("%d data records read from file...\n\n", records);
 
     if (records > 0)
