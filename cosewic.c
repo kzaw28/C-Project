@@ -1,28 +1,3 @@
-/*
-*****************************************************************************
-                        Final Assessment
-Full Name  : Kaung Khant Zaw
-Student ID#: 157467218
-Email      : kzaw@myseneca.ca
-Section    : NGG
-
-Full Name  : Matt Hyland
-Student ID#: 035286046
-Email      : mhyland@myseneca.ca
-Section    : NGG
-
-Full Name  : Sang Hyon Jeon
-Student ID#: 113552194
-Email      : shjeon5@myseneca.ca
-Section    : NGG
-
-Authenticity Declaration:
-We declare this submission is the result of our own work and has not been
-shared with any other student or 3rd party content provider. This submitted
-piece of work is entirely of our own creation.
-*****************************************************************************
-*/
-
 #define _CRT_SECURE_NO_WARNINGS
 
 /**************************** SYSTEM LIBRARIES *****************************/
